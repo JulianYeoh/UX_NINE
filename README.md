@@ -3,29 +3,27 @@
 2007 1 team 7
 2014  12 projects 38 heros
 
-2. ability 技能
-various cutting-edge technologies 各种尖端技术
-wide span of business areas 广泛的商业领域
+2. ability 
+various cutting-edge technologies
+wide span of business areas
 
 
 3. culture
 open environment
-exploration and innovation 开拓创新
+exploration and innovation 
 
 4. focus
-preciseness and rigor 严谨 细致入微
+preciseness and rigor
 devoted to user experience
-            <img class="photo" id="focus" src="image/focus.jpg" height="350" />
-            <img class="photo" id="focus2" src="image/focus2.jpg" height="350" />
 
 5. communication
 strong english skills
 
 6. care
-family comes first 带家属的照片
+family comes first
 brothers and sisters
 
-7. vigor 精力 活力
+7. vigor
 fabulous team building
 cheerful sports
 
