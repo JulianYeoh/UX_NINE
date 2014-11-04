@@ -148,8 +148,8 @@ blockquote .author {
     padding: 5px;
     border-radius: 15px;
     box-shadow:3px 3px 5px #aaaaaa;
-    left: -80px;
-    top: -276px;
+    left: 120px;
+    top: -340px;
 }
 
 #focusimg1 {
@@ -171,13 +171,13 @@ blockquote .author {
     border-radius: 15px;
     box-shadow:3px 3px 5px #aaaaaa;
     left: 100px;
-    top: -60px;
+    top: -40px;
 }
 
 #focusimg3 {
     position: absolute;
-    left: -50px;
-    top: -200px;
+    left: 0px;
+    top: -280px;
     border: 1px solid #999;
     padding: 5px;
     border-radius: 15px;
@@ -187,7 +187,17 @@ blockquote .author {
 #focusimg4 {
     position: absolute;
     left: 550px;
-    top: -150px;
+    top: -200px;
+    border: 1px solid #999;
+    padding: 5px;
+    border-radius: 15px;
+    box-shadow:3px 3px 5px #aaaaaa;
+}
+
+#focusimg5 {
+    position: absolute;
+    left: 250px;
+    top: -40px;
     border: 1px solid #999;
     padding: 5px;
     border-radius: 15px;
@@ -265,6 +275,13 @@ blockquote .author {
 #businessAreaContent {
     font-size: 78px;
     margin-top: 500px;
+}
+#businessAreaContent span,
+#culture-text span,
+#focus-text1 span,
+#focus-text2 span,
+#careSubitem2 span {
+    text-transform: none;
 }
 
 #adaptive-responsive ul {
@@ -539,6 +556,11 @@ blockquote .author {
     position: absolute;
     left: 586px;
     top: 5px;
+}
+
+#vigorSubitem3 img,
+#vigorSubitem4 img{
+    height: 380px !important;
 }
 
 #prospect img {
