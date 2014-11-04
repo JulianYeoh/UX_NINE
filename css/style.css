@@ -392,8 +392,8 @@ blockquote .author {
     padding: 5px;
     border-radius: 15px;
     box-shadow:3px 3px 5px #aaaaaa;
-    left: 30px;
-    top: -200px;
+    left: 0px;
+    top: -250px;
     -ms-transform:rotate(-9deg); 
     -moz-transform:rotate(-9deg); 
     -webkit-transform:rotate(-9deg); 
@@ -406,8 +406,8 @@ blockquote .author {
     background-color: #fff;
     border: 1px solid #999;
     padding: 5px;
-    left: 440px;
-    top: -100px;
+    left: 530px;
+    top: -170px;
     border-radius: 15px;
     box-shadow:3px 3px 5px #aaaaaa;
     -ms-transform:rotate(7deg); 
@@ -430,7 +430,7 @@ blockquote .author {
 }
 
 #communication .subTitle {
-    font-size: 150px !important;
+    font-size: 135px !important;
 }
 
 #communication .desc {
@@ -536,7 +536,7 @@ blockquote .author {
 
 #careImg .family2 {
     position: absolute;
-    left: 330px;
+    left: 337px;
     top: 20px;
 }
 
